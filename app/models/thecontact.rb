@@ -1,0 +1,2 @@
+class Thecontact < ApplicationRecord
+end
